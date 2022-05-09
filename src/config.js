@@ -1,0 +1,117 @@
+const pokemonApiBaseUrl = "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/";
+const pokemon = [ {
+  id: 4,
+  name: "Charmander",
+  type: "fire",
+  base_experience: 62
+}, {
+  id: 7,
+  name: "Squirtle",
+  type: "water",
+  base_experience: 63
+}, {
+  id: 11,
+  name: "Metapod",
+  type: "bug",
+  base_experience: 72
+}, {
+  id: 12,
+  name: "Butterfree",
+  type: "flying",
+  base_experience: 178
+}, {
+  id: 25,
+  name: "Pikachu",
+  type: "electric",
+  base_experience: 112
+}, {
+  id: 39,
+  name: "Jigglypuff",
+  type: "normal",
+  base_experience: 95
+}, {
+  id: 94,
+  name: "Gengar",
+  type: "poison",
+  base_experience: 225
+}, {
+  id: 133,
+  name: "Eevee",
+  type: "normal",
+  base_experience: 65
+}, {
+  id: 20,
+  name: "Raticate",
+  type: "normal",
+  base_experience: 145
+}, {
+  id: 28,
+  name: "Sandslash", 
+  type: "ground",
+  base_experience: 158
+}, {
+  id: 43,
+  name: "Oddish", 
+  type: "grass",
+  base_experience: 64
+}, {
+  id: 48,
+  name: "Venonat", 
+  type: "bug",
+  base_experience: 61
+}, {
+  id: 52,
+  name: "Meowth", 
+  type: "normal",
+  base_experience: 58
+}, {
+  id: 54,
+  name: "Psyduck", 
+  type: "water",
+  base_experience: 64
+}, {
+  id: 63,
+  name: "Abra", 
+  type: "psychic",
+  base_experience: 62
+}, {
+  id: 60,
+  name: "Poliwag", 
+  type: "water",
+  base_experience: 60
+}, {
+  id: 74,
+  name: "Geodude", 
+  type: "rock",
+  base_experience: 60
+}, {
+  id: 77,
+  name: "Ponyta", 
+  type: "fire",
+  base_experience: 82
+}, {
+  id: 92,
+  name: "Gastly", 
+  type: "ghost",
+  base_experience: 62
+}, {
+  id: 88,
+  name: "Grimer", 
+  type: "poison",
+  base_experience: 65
+}, {
+  id: 81,
+  name: "Magnemite", 
+  type: "electric",
+  base_experience: 65
+}, {
+  id: 79,
+  name: "Slowpoke", 
+  type: "water",
+  base_experience: 79
+}];
+
+export {
+  pokemon,
+  pokemonApiBaseUrl
+};

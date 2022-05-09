@@ -1,0 +1,77 @@
+.Pokecard{
+    width: 200px;
+    height: 200px;
+    background: #ccc;
+    text-align: center;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+    font-size: 14px;
+    box-shadow: 5px 5px 5px 0 rgba(0,0,0,.2);
+}
+
+.Pokecard h1{
+    font-size: 16px;
+    font-weight: bold;
+    color: blue;
+}
+
+.Pokecard.type-bug{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/spikes.png") repeat center center;
+}
+
+.Pokecard.type-dragon{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/beanstalk.png") repeat center center;
+}
+
+.Pokecard.type-electric{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/memphis-mini.png") repeat center center;
+}
+
+.Pokecard.type-fighting{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/pow-star.png") repeat center center;
+}
+
+.Pokecard.type-fire{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/papyrus.png") repeat center center;
+}
+
+.Pokecard.type-flying{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/geometric-leaves.png") repeat center center;
+}
+
+.Pokecard.type-ghost{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/round.png") repeat center center;
+}
+
+.Pokecard.type-grass{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/spring.png") repeat center center;
+}
+
+.Pokecard.type-ground{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/what-the-hex.png") repeat center center;
+}
+
+.Pokecard.type-ice{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/country-quilt.png") repeat center center;
+}
+
+.Pokecard.type-normal{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/contemporary_china.png") repeat center center;
+}
+
+.Pokecard.type-poison{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/circles-dark.png") repeat center center;
+}
+
+.Pokecard.type-psychic{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/hypnotize.png") repeat center center;
+}
+
+.Pokecard.type-rock{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/pipes.png") repeat center center;
+}
+
+.Pokecard.type-water{
+    background: url("https://storage.googleapis.com/subtlepatterns-production/designers/subtlepatterns/uploads/ripples.png") repeat center center;
+}

@@ -1,0 +1,19 @@
+.Pokedex{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 2rem;
+    margin: 1rem;
+}
+
+.Pokedex.winner-true{
+    background-color: rgba(191, 234, 135, .9);
+}
+
+.Pokedex.winner-false{
+    background-color: rgba(174, 171, 172, .9);
+}
+
+.Pokedex.winner-false h1{
+    color: #444;
+}
