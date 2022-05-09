@@ -6,7 +6,7 @@ Pokégame is a simple card game that uses a shuffling function to allocate
 Pokémon cards to two competing hands. The collective experience of each hand is 
 used to determine the winner of each game.
 
-## [Live Demo](https://demo-flask-warbler.herokuapp.com/)
+## [Live Demo](edwinkim-pokegame-demo.surge.sh)
 
 # Getting Started on the Development Server
 
